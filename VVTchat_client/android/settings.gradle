@@ -1,0 +1,3 @@
+rootProject.name = 'VVTchat_client'
+
+include ':app'

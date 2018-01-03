@@ -1,0 +1,8 @@
+const ActionType = {
+    SET_DATA_LOADING: 'SET_DATA_LOADING',
+    CURRENT_USER: 'CURRENT_USER',
+    SEARCHED_USER: 'SEARCHED_USER',
+    CLEAR_SEARCHED_USER: 'CLEAR_SEARCHED_USER'
+}
+
+export default ActionType;
